@@ -1,5 +1,5 @@
 
 
 function logout() {
-    window.location.href = '../Payooo/index.html'
+    window.location.href = './index.html'
 }
